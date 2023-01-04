@@ -1,9 +1,19 @@
 <template>
   <div ref="container">
     <img
+      width="400"
+      src="https://media-public.canva.com/MADE6lOJ6h0/1/thumbnail_large-1.png"
+      alt=""
+    />
+    <img
       ref="roleta"
       width="400"
-      src="https://cf.shopee.com.br/file/a2df0c917d79493a7d90252145458839"
+      src="https://media-public.canva.com/RTx-w/MADzv3RTx-w/1/tl.png"
+      alt=""
+    />
+    <img
+      width="300"
+      src="https://media-public.canva.com/bujNU/MAFEIBbujNU/1/tl.png"
       alt=""
     />
   </div>
